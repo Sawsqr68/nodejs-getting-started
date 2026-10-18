@@ -14,11 +14,11 @@
     "test": "mocha --timeout=8000 --exit **/*.test.js"
   },
   "dependencies": {
-    "@google-cloud/firestore": "^5.0.0",
+    "@google-cloud/firestore": "^9.3.1",
     "@google-cloud/storage": "^6.0.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "multer": "^1.4.1",
+    "multer": "^2.4.0",
     "pug": "^3.0.0"
   },
   "devDependencies": {

@@ -6,7 +6,7 @@
     "author": "Google LLC",
     "license": "Apache-2.0",
     "dependencies": {
-      "@google-cloud/firestore": "^3.0.0",
+      "@google-cloud/firestore": "^9.3.1",
       "@google-cloud/translate": "^6.0.0"
     },
     "devDependencies": {}
